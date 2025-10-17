@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Afonso Mateus
 
-<!--
-**afonsotmm/afonsotmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 21-year-old Master's student in **Electrical and Computer Engineering** at **FEUP** (Faculty of Engineering, University of Porto).  
+🤖 My main area of interest is **Automation and Robotics**, where I aim to combine software, electronics, and control systems to build intelligent and efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🔭 Currently finishing my **MSc in Automation** at FEUP  
+- ⚙️ Passionate about **robotics, embedded systems, and control engineering**  
+- 🧩 Interested in applying **AI and computer vision** to robotic systems  
+- 🌱 Always learning and improving in **Python, C/C++, MATLAB, ROS**, and automation tools
+
+---
+
+## 💡 Technical Skills
+
+**Languages & Tools:**  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+---
+
+## 📊 GitHub Stats
+![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsomateus&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomateus&layout=compact&theme=transparent)
+
+---
+
+## 🌍 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Mateus-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/afonsomateus/](https://www.linkedin.com/in/afonso-mateus-524438333/))
+[![Email](https://img.shields.io/badge/Email-afonsomateus%40outlook.com-lightgrey?style=flat-square&logo=gmail)](mailto:afonso.tomas.mateus@gmail.com)
+
+---
+
+### ✨ “Engineering intelligent systems that move and make decisions.”
