@@ -21,8 +21,6 @@
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC%20Programming-FF8000?style=for-the-badge&logo=siemens&logoColor=white)
-![Industrial Informatics](https://img.shields.io/badge/Industrial%20Informatics-005571?style=for-the-badge&logo=industrialio&logoColor=white)
 
 ---
 
