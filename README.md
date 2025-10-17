@@ -31,15 +31,13 @@
 - 🌐 **Industrial Informatics and Process Optimization**  
 - 🤖 **Autonomous Robotics and System Integration**
 ## 📊 GitHub Stats
-![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsomateus&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsomateus&layout=compact&theme=transparent)
+![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsotmm&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsotmm&layout=compact&theme=transparent)
 
 ---
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Mateus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/afonso-mateus-524438333/)
-[![Email](https://img.shields.io/badge/Email-afonsomateus%40outlook.com-lightgrey?style=flat-square&logo=gmail)](mailto:afonso.tomas.mateus@gmail.com)
+[![Email](https://img.shields.io/badge/Email-afonso.tomas.mateus@gmail.com-lightgrey?style=flat-square&logo=gmail)](mailto:afonso.tomas.mateus@gmail.com)
 
 ---
-
-### ✨ “Engineering intelligent systems that move and make decisions.”
