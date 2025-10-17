@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Afonso Mateus
 
-🎓 I'm a 21-year-old Master's student in **Electrical and Computer Engineering** at **FEUP** (Faculty of Engineering, University of Porto).  
-🤖 My main area of interest is **Automation and Robotics**, where I aim to combine software, electronics, and control systems to build intelligent and efficient solutions.
+I'm a 21-year-old Master's student in **Electrical and Computer Engineering** at **FEUP** (Faculty of Engineering, University of Porto).  
+My main area of interest is **Automation and Robotics**, where I aim to combine software, electronics, and control systems to build intelligent and efficient solutions.
 
 ---
 
