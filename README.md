@@ -5,15 +5,15 @@
 
 ---
 
-## 🧠 About Me
-- 🔭 Currently finishing my **MSc in Automation** at FEUP  
-- ⚙️ Passionate about **robotics, embedded systems, and control engineering**  
-- 🧩 Interested in applying **AI and computer vision** to robotic systems  
-- 🌱 Always learning and improving in **Python, C/C++, MATLAB, ROS**, and automation tools
+## About Me
+- Currently finishing my **MSc in Automation** at FEUP  
+- Passionate about **robotics, embedded systems, and control engineering**  
+- Interested in applying **AI and computer vision** to robotic systems  
+- Always learning and improving in **Python, C/C++, MATLAB, ROS**, and automation tools
 
 ---
 
-## 💡 Technical Skills
+## Technical Skills
 
 **Languages & Tools:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -25,18 +25,18 @@
 ---
 
 **Fields of Expertise:**  
-- 🧭 **Automation and Control Systems**  
-- 🧠 **Multi-Robot Path Planning Algorithms**  
-- ⚙️ **PLC Programming and Industrial Networks**  
-- 🌐 **Industrial Informatics and Process Optimization**  
-- 🤖 **Autonomous Robotics and System Integration**
-## 📊 GitHub Stats
+- **Automation and Control Systems**  
+- **Multi-Robot Path Planning Algorithms**  
+- **PLC Programming and Industrial Networks**  
+- **Industrial Informatics and Process Optimization**  
+- **Autonomous Robotics and System Integration**
+## GitHub Stats
 ![Afonso's GitHub stats](https://github-readme-stats.vercel.app/api?username=afonsotmm&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afonsotmm&layout=compact&theme=transparent)
 
 ---
 
-## 🌍 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Mateus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/afonso-mateus-524438333/)
 [![Email](https://img.shields.io/badge/Email-afonso.tomas.mateus@gmail.com-lightgrey?style=flat-square&logo=gmail)](mailto:afonso.tomas.mateus@gmail.com)
 
