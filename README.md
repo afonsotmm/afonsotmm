@@ -37,7 +37,7 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Mateus-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/afonsomateus/](https://www.linkedin.com/in/afonso-mateus-524438333/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Afonso%20Mateus-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/afonso-mateus-524438333/)
 [![Email](https://img.shields.io/badge/Email-afonsomateus%40outlook.com-lightgrey?style=flat-square&logo=gmail)](mailto:afonso.tomas.mateus@gmail.com)
 
 ---
